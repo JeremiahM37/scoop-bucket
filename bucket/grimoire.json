@@ -7,7 +7,7 @@
                 "grimoire.exe",
                 "grimoire-mcp.exe"
             ],
-            "hash": "e0704ece7da500efc42e6b8f8c595c1b6490132a34ab20c377d598ac608b7d19"
+            "hash": "acc2a1a91c0a83d4ac7b24fae96f40808517e679cc92297f0d88b409747eeffb"
         },
         "arm64": {
             "url": "https://github.com/JeremiahM37/grimoire/releases/download/v1.4.0/grimoire_windows_arm64.zip",
@@ -15,7 +15,7 @@
                 "grimoire.exe",
                 "grimoire-mcp.exe"
             ],
-            "hash": "09cf260f2996963017897fa12affa3b0847e71162090dd0bc805291172477923"
+            "hash": "2f5b21ed803489e8d6c2702798b7a6a9baf93f78d23df2ae593999d8cee7343c"
         }
     },
     "homepage": "https://github.com/JeremiahM37/grimoire",
