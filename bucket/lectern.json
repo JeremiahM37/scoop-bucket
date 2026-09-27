@@ -1,19 +1,19 @@
 {
-    "version": "2.3.1",
+    "version": "2.4.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/JeremiahM37/lectern/releases/download/v2.3.1/lectern_windows_amd64.zip",
+            "url": "https://github.com/JeremiahM37/lectern/releases/download/v2.4.1/lectern_windows_amd64.zip",
             "bin": [
                 "lectern.exe"
             ],
-            "hash": "67be85621cb387c50c758b90d07d23101b7cb9ef456068cf3377067d68569433"
+            "hash": "5c7b636aec3e975ebf207b679c378b78067ad072df1be60b88a4844dca98b64c"
         },
         "arm64": {
-            "url": "https://github.com/JeremiahM37/lectern/releases/download/v2.3.1/lectern_windows_arm64.zip",
+            "url": "https://github.com/JeremiahM37/lectern/releases/download/v2.4.1/lectern_windows_arm64.zip",
             "bin": [
                 "lectern.exe"
             ],
-            "hash": "d237c6822b45d3fe99c2bdd8f1d10bda9c6624b4d21af4d93a454662b7a08edf"
+            "hash": "8a15a51b11901194b639cf25eccd3230383616ea77ac681f4b7170e5461e28de"
         }
     },
     "homepage": "https://github.com/JeremiahM37/lectern",
