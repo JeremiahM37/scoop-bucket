@@ -1,21 +1,21 @@
 {
-    "version": "1.7.1",
+    "version": "1.8.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/JeremiahM37/grimoire/releases/download/v1.7.1/grimoire_windows_amd64.zip",
+            "url": "https://github.com/JeremiahM37/grimoire/releases/download/v1.8.0/grimoire_windows_amd64.zip",
             "bin": [
                 "grimoire.exe",
                 "grimoire-mcp.exe"
             ],
-            "hash": "f1e28927de6161cb61749440a5b35503c097c81e195b27c04e5f458b1355ccc5"
+            "hash": "dc6fe647994a8f18d23e127f07dbd446a7d9518fc2b0012776b6810b605cf639"
         },
         "arm64": {
-            "url": "https://github.com/JeremiahM37/grimoire/releases/download/v1.7.1/grimoire_windows_arm64.zip",
+            "url": "https://github.com/JeremiahM37/grimoire/releases/download/v1.8.0/grimoire_windows_arm64.zip",
             "bin": [
                 "grimoire.exe",
                 "grimoire-mcp.exe"
             ],
-            "hash": "29913f660dd0e6e66311d608a33e414d6ea762c98531c0945f8c2738c3a8dfec"
+            "hash": "d324471168d7c0d35ea0512c7a9f5fec99005c725cbf1498dec9a5b76fea0265"
         }
     },
     "homepage": "https://github.com/JeremiahM37/grimoire",
